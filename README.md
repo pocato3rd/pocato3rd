@@ -30,9 +30,11 @@ Machine Learning Project:
 A. Shtofenmakher et al., "A Heliocentric Satellite Constellation for Continuous Solar Coverage and Space Weather Monitoring," 2024 IEEE Aerospace Conference, Big Sky, MT, USA, 2024, pp. 1-20, doi: 10.1109/AERO58975.2024.10521338. keywords: {Space vehicles;Earth;Satellite constellations;Observatories;Costs;Instruments;Ultraviolet sources}. [Link](https://ieeexplore.ieee.org/document/10521338)
 
 
-## Contact
+## Profiles / Contact
 
-LinkedIn: [https://www.linkedin.com/in/robert-cato-iii/](https://www.linkedin.com/in/robert-cato-iii/)
+LinkedIn: https://www.linkedin.com/in/robert-cato-iii/
+
+Codecademy: https://www.codecademy.com/profiles/pocato3rd
 
 <!--
 **pocato3rd/pocato3rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
