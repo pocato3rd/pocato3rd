@@ -8,7 +8,8 @@ I'm currently working on updating my dndSpellBook repository to support `png` ex
 
 ---
 
-
+↗️↘️ JPL Europa Clipper Downlink and Data Management CFDP Dashboard Tool Demo: [slidedeck](ddm_cfdp_dashboard_demo_for_clipper_ops_v2.pdf)
+* This document has been cleared through JPL's unlimited release process and is approved for public distribution. Clearance Number: CL#25-4203
 
 🐍 [dndSpellBook](https://github.com/pocato3rd/dndSpellBook)
 * A Python project to generate ready-to-print spell cards for Dungeons & Dragons games
